@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huseyin</h1>
+<h1 align="center">Hi 👋, I am Huseyin</h1>
 <h3 align="center">A passionate Data Scientist from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hg1652&label=Profile%20views&color=0e75b6&style=flat" alt="hg1652" /> </p>
