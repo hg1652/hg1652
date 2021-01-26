@@ -22,3 +22,12 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hg1652&show_icons=true&locale=en" alt="hg1652" /></p>
+
+## I know:
+
+Python / Machine Learning / Deep Learning / Natural Language Processing / Data Analysis / Data Visualization /
+
+AWS / Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
+
+Git/Github / HTML/CSS / Linux / Agile / Jira
+
