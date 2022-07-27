@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python(Numpay, Pandas, Seaborn, Matplotlib)**
 
-- 📫 How to reach me **huseyıngulcicek1655@gmail.com**
+- 📫 How to reach me **huseyıngulcicek1652@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BCl%C3%A7i%C3%A7ek-640705177/](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BCl%C3%A7i%C3%A7ek-640705177/)
 
